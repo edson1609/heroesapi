@@ -1,4 +1,4 @@
-#API de gerenciamento de herois em java para o desafio de projeto da DIO
+# API de gerenciamento de herois em java para o desafio de projeto da DIO
 ## Stack utilizada
 
   * Java8
